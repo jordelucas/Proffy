@@ -40,7 +40,10 @@ function TeacherList () {
               { value: '6', label: 'Sábado' }
             ]}
           />
-          <Input type="time" name="time" label="Hora"/>
+
+          <button type="submit">
+            Buscar
+          </button>
         </form>
       </PageHeader>
 
